@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "17d6170d-e53c-45ef-a816-3a8cb42b9f50"
+      }
+    },
+    "owner": "ninja.mate"
   }
 }
